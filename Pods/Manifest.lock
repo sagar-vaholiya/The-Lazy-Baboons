@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.0)
+  - Gloss (2.0.1)
+  - IQKeyboardManagerSwift (6.2.0)
+  - JVFloatLabeledTextField (1.2.1)
+  - MBProgressHUD (1.0.0)
+  - ReachabilitySwift (3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Gloss (~> 2.0)
+  - IQKeyboardManagerSwift
+  - JVFloatLabeledTextField
+  - MBProgressHUD (~> 1.0.0)
+  - ReachabilitySwift (~> 3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Gloss
+    - IQKeyboardManagerSwift
+    - JVFloatLabeledTextField
+    - MBProgressHUD
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Gloss: 1e8743f8de1fbe14a97f220ff901cba91ae5f8f8
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  JVFloatLabeledTextField: cfc44e3c4d493b2ed92ede8035e8e89c2912ba64
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+
+PODFILE CHECKSUM: ac6ccb1a49d4f8530d1458e9d75e17a723830a3f
+
+COCOAPODS: 1.5.3
